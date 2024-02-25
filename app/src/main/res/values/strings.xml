@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Vault</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="are_you_a_new_user_register">Are you a new user? Register</string>
+    <string name="vault">Vault</string>
+    <string name="welcome_back_to_your_app">Welcome back to your app</string>
+    <string name="one_stop_app_for_all_wallpapers">One stop app for all wallpapers</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="VAULT">VAULT</string>
+    <string name="one_stop_app_for_all_passwords">One Stop App For All Passwords</string>
+</resources>
