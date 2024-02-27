@@ -78,39 +78,9 @@
                 android:layout_width="210dp"
                 android:layout_height="105dp"
                 android:layout_gravity="center"
-                android:layout_marginTop="16dp"
+                android:layout_marginTop="40dp"
                 android:contentDescription="@string/todo"
                 app:srcCompat="@drawable/btn_login" />
-
-            <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/button_google"
-                android:layout_width="match_parent"
-                android:layout_height="55dp"
-                android:layout_marginLeft="32dp"
-                android:layout_marginRight="32dp"
-                android:layout_marginTop="32dp"
-                android:textColor="#ffffff"
-                android:textStyle="bold"
-                android:drawableStart="@drawable/google"
-                android:drawablePadding="16dp"
-                android:padding="16dp"
-                android:background="@drawable/background_btn_2"
-                android:text="@string/sign_in_with_google" />
-
-            <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/button_facebook"
-                android:layout_width="match_parent"
-                android:layout_height="55dp"
-                android:layout_marginLeft="32dp"
-                android:layout_marginRight="32dp"
-                android:layout_marginTop="32dp"
-                android:textColor="#ffffff"
-                android:textStyle="bold"
-                android:drawableStart="@drawable/facebook"
-                android:drawablePadding="16dp"
-                android:padding="16dp"
-                android:background="@drawable/background_btn_2"
-                android:text="@string/sign_in_with_facebook" />
 
             <TextView
                 android:id="@+id/text_register"
